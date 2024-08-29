@@ -12,13 +12,6 @@ Demo to [Dropaball](https://tjhyva.github.io/rngball/)
 ## Tomi Hyvärinen
 ## Pvm.5.12.2020
 
-
-### Linkit
-Ohjelma näkyvissä https://ainimarie.github.io/webharkka
-(Jouduin lainaamaan vaimoni githubia kun en samoilla käskyillä saanut omaani toimimaan, en tiedä miksi. Käytetty gh-pages-moduulia, ohjeet katsottu https://www.npmjs.com/package/gh-pages)
-Lähdekoodit nähtävissä: https://github.com/tjhyva/webharkka/tree/master/src
-
-
 ### Suunnitelma
 Suunnitelmissa oli toteuttaa Reactilla canvasin avulla pallon pudotus-peli joka arpoo kumpaan suuntaa pallo menee ja kumpi voittaa. Reactin käytöstä ei ollut paljon kokemusta, joten otin vähän helpomman porojektin työn alle oppimistarkoituksella.
 
