@@ -2,7 +2,7 @@
 
 Project made with React that uses canvas-element. Simple lottery-type ball drop, planned to do a bigger one but time was running out.
 
-Demo to [Dropaball](https://ainimarie.github.io/webharkka)
+Demo to [Dropaball](https://tjhyva.github.io/rngball/)
 
 ---
 
