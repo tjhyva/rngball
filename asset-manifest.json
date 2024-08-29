@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rngball/static/css/main.c611170e.css",
+    "main.js": "/rngball/static/js/main.141072bc.js",
+    "index.html": "/rngball/index.html",
+    "main.c611170e.css.map": "/rngball/static/css/main.c611170e.css.map",
+    "main.141072bc.js.map": "/rngball/static/js/main.141072bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c611170e.css",
+    "static/js/main.141072bc.js"
+  ]
+}
